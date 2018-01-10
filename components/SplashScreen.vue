@@ -10,7 +10,6 @@
   export default {
 
     name: 'SplashScreen',
-
     data () {
       return {
 
