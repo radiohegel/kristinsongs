@@ -11,7 +11,7 @@
 			</div>
 			<div class="navbar-menu navbar-end">
 				<span class="navbar-item">
-					<iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com//mini/light/opaque"></iframe>
+					<iframe name="mini" style="border:0px;width:100%;height:75px;" src="//widget.cdbaby.com/mini/light/opaque"></iframe>
 				</span>
 			</div>
 		</nav>
