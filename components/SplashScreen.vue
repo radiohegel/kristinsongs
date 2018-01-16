@@ -22,5 +22,9 @@
   
   .has-img-background
     background: url('../assets/images/dummyphoto.jpg')
+    background-position: center center
+    background-repeat:  no-repeat
+    background-attachment: fixed
+    background-size:  cover
 
 </style>

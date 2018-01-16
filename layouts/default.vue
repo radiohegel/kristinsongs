@@ -1,6 +1,6 @@
 <template>
   <div>
-		<nav class="navbar">
+		<nav class="navbar is-fixed-top">
 			<div class="navbar-brand">
 				<p class="navbar-item">KristinSongs</p>
 			</div>
