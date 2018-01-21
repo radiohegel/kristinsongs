@@ -1,6 +1,6 @@
 <template>
   <div>
-		<nav class="navbar is-fixed-top">
+		<nav class="navbar is-fixed-top is-light">
 			<div class="navbar-brand">
 				<p class="navbar-item">KristinSongs</p>
 			</div>
@@ -11,7 +11,7 @@
 			</div>
 			<div class="navbar-menu navbar-end">
 				<span class="navbar-item">
-					<iframe name="mini" style="border:0px;width:100%;height:70px;" src="//widget.cdbaby.com/60cd6bd3-716f-4d90-80d7-4d7b5c458146/mini/light/transparent"></iframe>
+					<iframe name="mini" style="border:0px;width:100%;height:72px;" src="//widget.cdbaby.com/60cd6bd3-716f-4d90-80d7-4d7b5c458146/mini/light/transparent"></iframe>
 				</span>
 			</div>
 		</nav>
