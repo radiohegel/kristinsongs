@@ -5,7 +5,7 @@
 				<p class="navbar-item">KristinSongs</p>
 			</div>
 			<div class="navbar-menu">
-				<a class="navbar-item"> About</a>
+				<router-link to="/about" class="navbar-item"> About</router-link>
 				<a class="navbar-item"> Store</a>
 				<a class="navbar-item"> Contact</a>
 			</div>
