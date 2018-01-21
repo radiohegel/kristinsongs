@@ -1,5 +1,5 @@
 <template>
-	<section class="hero">
+	<section class="hero is-fullheight">
 		<div class="hero-body">
 			<div class="content is-large">
 				<h1>Kristin Erickson</h1>
