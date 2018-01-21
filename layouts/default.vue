@@ -2,7 +2,7 @@
   <div>
 		<nav class="navbar is-fixed-top is-light">
 			<div class="navbar-brand">
-				<p class="navbar-item">KristinSongs</p>
+				<router-link to="/" class="navbar-item">KristinSongs</router-link>
 			</div>
 			<div class="navbar-menu">
 				<router-link to="/about" class="navbar-item"> About</router-link>
