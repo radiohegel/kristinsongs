@@ -1,7 +1,7 @@
 <template>
   <section class="hero is-fullheight has-img-background">
     <div class="hero-body">
-      <p class="title is-1 has-text-link">Kristin Erickson</p>
+      
     </div>
   </section>
 </template>
