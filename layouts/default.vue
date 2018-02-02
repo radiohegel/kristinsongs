@@ -1,6 +1,6 @@
 <template>
   <div>
-		<nav class="navbar is-fixed-top is-light">
+		<nav class="navbar is-fixed-top is-white">
 			<div class="navbar-brand">
 				<router-link to="/" class="navbar-item">KristinSongs</router-link>
 			</div>
@@ -21,5 +21,8 @@
 
 <style lang="sass">
   @import './stylevariables.sass'
+
+  .navbar
+  	opacity: .8
 
 </style>
