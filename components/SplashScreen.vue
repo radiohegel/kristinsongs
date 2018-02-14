@@ -21,7 +21,7 @@
 <style lang="sass" scoped>
   
   .has-img-background
-    background: url('../assets/images/dummyphoto.jpg')
+    background: url('../assets/images/kris70s.jpg')
     background-position: center center
     background-repeat:  no-repeat
     background-attachment: fixed
