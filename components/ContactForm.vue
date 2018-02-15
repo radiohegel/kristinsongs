@@ -9,7 +9,7 @@
 		<div class="field">
 			<label for="" class="label">Email</label>
 			<div class="control">
-				<input type="text" class="input" placeholder="Type your Email address here">
+				<input type="email" class="input" placeholder="Type your Email address here">
 			</div>
 		</div>		
 		<div class="field">
@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="field">
-			<label for="" class="label">Subject</label>
+			<label for="" class="label">Message</label>
 			<div class="control">
 				<textarea type="text" class="textarea" placeholder="Type your message here"></textarea>
 			</div>
