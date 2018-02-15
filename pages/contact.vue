@@ -1,17 +1,18 @@
 <template>
-	<section class="hero is-fullheight">
-		<div class="hero-body">
-			 <h1 class="title">This is the contact page</h1>
-		</div>	  
-	</section>
+	<contact-form id="form"/>
 </template>
 
 <script>
-  export default {
-    components: {}
-  }
+	import ContactForm from '../components/ContactForm.vue'
+
+	export default {
+	  components: { ContactForm }
+	}
 </script>
 
 <style lang="sass">
+
+	#form
+		padding: 20%
 
 </style>
