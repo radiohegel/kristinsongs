@@ -11,9 +11,7 @@
 					<div class="column">
 						<figure class="image"><img src="../assets/images/bio.jpg" alt=""></figure>
 					</div>
-				</div>
-
-				
+				</div>	
 				<p>	Then came a twenty-year break for college, law school, marriage and children. Thankfully, Kristin has returned to singing, playing, and writing with greater passion than ever. She believes the greatest gift she can give her children is a life fully lived, and that is what she is aiming for. Her performances these days consist primarily of her original songs, but also include songs of talented friends she has had the pleasure of knowing through the years and a few choice covers from artists like Patti Griffin, Joni Mitchell and Tom Waits.</p>
 			</div>
 		</div>
@@ -30,7 +28,7 @@
 
 	    }
 	  }
-}
+	}
 </script>
 
 <style lang="sass" scoped>
