@@ -1,7 +1,7 @@
 <template>
 	<section class="hero is-fullheight">
 		<div class="hero-body">
-			 <h1 class="title">This is the shows page</h1>
+			 <h1 class="title">There are no scheduled shows at this time. Please check back later.</h1>
 		</div>	  
 	</section>
 </template>
